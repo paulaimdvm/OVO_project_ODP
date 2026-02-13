@@ -62,18 +62,6 @@ This experiment is **not intended to provide state-of-the-art performance**, but
 
 ---
 
-## Key Characteristics of the Project
-
-- Implemented in **PyTorch**
-- Simple and readable code, written at a **student project level**
-- Focus on:
-  - Understanding unrolled optimization
-  - Comparing learned priors with classical methods
-  - Exploring computational trade-offs
-- Emphasis on **clarity and experimental reasoning**, not raw performance
-
----
-
 ## References
 
 [1] Mardani et al., *Unrolled Optimization with Deep Priors*,  
